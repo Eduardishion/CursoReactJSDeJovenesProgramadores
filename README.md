@@ -10,7 +10,7 @@
 
 ![alt review1](https://github.com/Eduardishion/CursoReactJSDeJovenesProgramadores/blob/master/review1.png)
 
-![alt review2](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![alt review2](https://github.com/Eduardishion/CursoReactJSDeJovenesProgramadores/blob/master/review2.png)
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
