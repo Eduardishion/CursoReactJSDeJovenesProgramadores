@@ -8,6 +8,9 @@
 - disminuye el stock del producto 
 ```
 
+![alt review1](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+
+![alt review2](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
