@@ -8,7 +8,7 @@
 - disminuye el stock del producto 
 ```
 
-![alt review1](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![alt review1](https://github.com/Eduardishion/CursoReactJSDeJovenesProgramadores/blob/master/review1.png)
 
 ![alt review2](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
 
