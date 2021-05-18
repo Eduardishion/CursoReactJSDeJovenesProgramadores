@@ -1,5 +1,12 @@
-## Este es una proyecto Front-end hecho con React JS el cual 
-## simula un carrito de compras con sus respectivas funcionalidades
+## Este es una proyecto Front-end hecho con React JS el cual, simula un carrito de compras con sus respectivas funcionalidades
+De la plataforma jovenes programadores: https://www.jovenesprogramadores.cl/
+
+Curso JavaScript 3: REACT 
+
+Descripción: Las sesiones presentan de manera gradual el uso y práctica de la librería de JavaScript (ver más > ) llamada React ( ver más > ) la cual permite realizar interfaces de usuario atractivas y reutilizables. Se realizan diversos ejemplos que aplican la sintaxis propia de React, el uso de la consola de comandos que en conjunto consolidan partes de un sitio web funcional, concluyendo con la realización de un carrito de compras. Contempla un trabajo final (misión), revisado por un tutor.
+Este curso se puede realizar desde teléfono celular o tablet, pero para aplicar los conocimientos que se van enseñando se requiere de computador.
+
+
 
 ```
 - usa archivos json para la carga de los productos
